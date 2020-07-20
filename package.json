@@ -23,7 +23,7 @@
   "license": "ISC",
   "dependencies": {
     "ioredis": "^4.16.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "memoizee": "^0.4.14",
     "quick-lru": "^5.0.0"
   },
